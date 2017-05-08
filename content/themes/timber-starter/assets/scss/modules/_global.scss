@@ -15,6 +15,7 @@ html {
   box-sizing: inherit;
 }
 body {
+  margin: 0;
   overflow-x: hidden;
 }
 
@@ -36,7 +37,7 @@ a {
 }
 
 /*
-Body Inner
+Top-Level
  */
 .body-inner {
   background-color: white;

@@ -27,7 +27,7 @@
   	}
 	},
   "require": {
-	  "wpackagist-plugin/timber-library": "0.22.*",
+	  "wpackagist-plugin/timber-library": "1.2.4",
     "jjgrainger/posttypes": "^1.0",
     "tgmpa/tgm-plugin-activation": "^2.6",
     "roots/soil": "3.7.1"
